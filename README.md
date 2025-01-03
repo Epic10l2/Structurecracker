@@ -52,4 +52,4 @@ Gateway indecies:
 19 = x 91 z -30
 ```
 
-
+Important: Slimechunks are currently broken, they will be fixed in the next version
