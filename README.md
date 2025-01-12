@@ -26,3 +26,5 @@ Gateway: 2 Liftable bits.
 Note, using too many structures of the same type or only Desert / Jungle Pyramids, Igloos, Swamphuts and Outposts can result in alot of "imposter" seeds, i recommend using non liftable structures aswell to reduce results, If you get too many results the programm might crash.
 
 You can find a pillarcracker here: github.com/Epic10l2/Simple-Pillarcracker
+
+Note: Disabling lifting only works if you have the pillarseed
