@@ -26,30 +26,3 @@ Gateway: 2 Liftable bits.
 Note, using too many structures of the same type or only Desert / Jungle Pyramids, Igloos, Swamphuts and Outposts can result in alot of "imposter" seeds, i recommend using non liftable structures aswell to reduce results, If you get too many results the programm might crash.
 
 You can find a pillarcracker here: github.com/Epic10l2/Simple-Pillarcracker
-
-Gateway indecies:
-
-```
-0 = x 96 z 0
-1 = x 91 z 29
-2 = x 77 z 56
-3 = x 56 z 77
-4 = x 29 z 91
-5 = x -91 z -1
-6 = x -30 z 91
-7 = x -57 z 77
-8 = x -78 z 56
-9 = x -92 z 29
-10 = x -96 z -1
-11 = x -92 z -30
-12 = x -78 z -57
-13 = x -57 z -78
-14 = x -30 z -92
-15 = x 0 z -96
-16 = x 29 z -92
-17 = x 56 z -78
-18 = x 77 z -57
-19 = x 91 z -30
-```
-
-Important: Slimechunks are currently broken, they will be fixed in the next version
