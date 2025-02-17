@@ -28,3 +28,4 @@ Note, using too many structures of the same type or only Desert / Jungle Pyramid
 You can find a pillarcracker here: github.com/Epic10l2/Simple-Pillarcracker
 
 Note: Disabling lifting only works if you have the pillarseed
+Note 2 : Requires java 22
